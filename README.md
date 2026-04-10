@@ -9,7 +9,7 @@
 ---
 
 ##  Live Demo
-👉 [Nigeria Economic Pulse on Streamlit Cloud](https://nigeria-economic-pulse.streamlit.app)
+👉 [Nigeria Economic Pulse on Streamlit Cloud](https://nigeria-economic-pulse-5htncysopjkegupltjsvfp.streamlit.app/)
 
 ---
 
