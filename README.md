@@ -91,7 +91,7 @@ Understanding Nigeria's economic trajectory is critical for fintech companies li
 ##  Author
 **Okparaji Wisdom**
 - GitHub: [@Santandave961](https://github.com/Santandave961)
-- Live Demo: [https://nigeria-economic-pulse.streamlit.app](https://nigeria-economic-pulse.streamlit.app)
+- Live Demo: [https://nigeria-economic-pulse.streamlit.app](https://nigeria-economic-pulse-5htncysopjkegupltjsvfp.streamlit.app/)
 
 ---
 
